@@ -1,0 +1,4 @@
+dropbox\api\dropboxapiconsole\DropboxapiconsoleApplication.class
+dropbox\api\dropboxapiconsole\service\OAuthService.class
+dropbox\api\dropboxapiconsole\service\ApiService.class
+dropbox\api\dropboxapiconsole\config\AppConfig.class
